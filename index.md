@@ -1,12 +1,12 @@
 ---
-title: "MyTitle."
+title: "My Site"
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Button"
+    - label: "Instargram"
       url: "/sample/"
 excerpt: " "
 intro:
